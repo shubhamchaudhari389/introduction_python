@@ -1,0 +1,10 @@
+s="Learning Python is Very Easy"
+print(s.find("Python"))
+print(s.find("Learning"))
+print(s.find("Easy"))
+print(s.find("shubham"))
+print(s.find("Not"))
+print(s.find("Easy"))
+print(s.find("Java"))
+print(s.find("n"))
+print(s.rfind("n"))
